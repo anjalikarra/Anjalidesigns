@@ -1,0 +1,15 @@
+
+body
+{
+    background-image: url("../../assets/images/p1.webp");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size:16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 300vh;
+font-size: xx-large;  
+font-style: italic; 
+color: blue; 
+}
